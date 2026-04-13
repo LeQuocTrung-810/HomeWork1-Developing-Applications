@@ -14,9 +14,13 @@ Deadline: 23h59 ngày 13/04/2026
 <img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/97cbb6c1-8ebe-497e-b085-d66b5f85ca0c" />
 - Tìm kiếm tên miền .id.vn (free) hoặc .io.vn  
 <img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/e71dc5fe-7f88-4023-b210-3e186ffbab5c" />
-- Nhập thông tin cá nhân và thanh toán cho tên miền  
+- Nhập thông tin cá nhân và thanh toán cho tên miền
+
 ### 2. Đăng ký tài khoản cloudflare  
-- Truy cập https://www.cloudflare.com/  
-- Đăng ký tài khoản  
+
+- Truy cập https://www.cloudflare.com/
+
+- Đăng ký tài khoản
+
 - Thêm domain vào cloudflare
 
